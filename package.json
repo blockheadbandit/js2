@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blockheadbandit/js2/issues"
   },
-  "homepage": "https://github.com/blockheadbandit/js2#readme"
+  "homepage": "https://github.com/blockheadbandit/js2#readme",
+  "dependencies": {
+    "bulma": "^0.9.4"
+  }
 }
